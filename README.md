@@ -2,7 +2,7 @@
 
 사용하는 기술스택<br>
 Java<br>
-Springboot
+Springboot<br>
 MySQL
 
 <!--
