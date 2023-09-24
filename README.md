@@ -3,6 +3,9 @@
 사용하는 기술스택<br>
 Java<br>
 Springboot<br>
+SpringJPA<br>
+AWS RDS<br>
+AWS EC2<br>
 MySQL
 <!--
 **IceCOff22/IceCOff22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
