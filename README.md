@@ -3,6 +3,7 @@
 Java<br>
 Springboot<br>
 SpringJPA<br>
+SpringSecurity<br>
 AWS RDS<br>
 AWS EC2<br>
 MySQL<br>
