@@ -9,6 +9,7 @@ AWS EC2<br>
 MySQL<br>
 MongoDB<br>
 Jenkins<br>
+github action<br>
 <!--
 **IceCOff22/IceCOff22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
