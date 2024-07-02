@@ -8,6 +8,7 @@ AWS RDS<br>
 AWS EC2<br>
 MySQL<br>
 MongoDB<br>
+Redis<br>
 Jenkins<br>
 github action<br>
 
