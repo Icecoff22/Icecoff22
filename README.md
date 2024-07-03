@@ -1,5 +1,6 @@
 ### Hi there 👋
-사용하는 기술스택<br>
+### 사용하는 기술스택<br>
+
 Java<br>
 Springboot<br>
 SpringJPA<br>
@@ -12,6 +13,8 @@ Redis<br>
 Jenkins<br>
 github action<br>
 
+### tech blog <br>
+https://velog.io/@icecoff22/posts
 <!--
 **IceCOff22/IceCOff22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
