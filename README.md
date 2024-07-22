@@ -12,7 +12,6 @@ MongoDB<br>
 Redis<br>
 Jenkins<br>
 github action<br>
-
 ### tech blog <br>
 https://velog.io/@icecoff22/posts
 <!--
