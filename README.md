@@ -3,7 +3,7 @@
 
 Java<br>
 Springboot<br>
-SpringJPA<br>
+SpringDataJPA<br>
 SpringSecurity<br>
 AWS RDS<br>
 AWS EC2<br>
